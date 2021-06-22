@@ -1,0 +1,4 @@
+# harmonyApk
+这是个该改造后可以被鸿蒙hap包起来的安卓工程
+需要正是签名打包alias和密码都是 zwyzwyzwy
+签名文件是app目录下zwyzwyzwy.keystore
